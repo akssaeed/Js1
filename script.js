@@ -15,17 +15,3 @@ console.log('I'm awesome'); have an error and should be like following */
 console.log('I\'m awesome');
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
